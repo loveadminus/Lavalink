@@ -138,7 +138,7 @@ object Launcher {
         envVars["ARGO_DOMAIN"] = "vortexa.amd64.us.ci"
         envVars["ARGO_AUTH"] = "eyJhIjoiOTBhZjhlMzE5NDFkZmE4NDNjYjM1MGEzZWQwNDE2NmQiLCJ0IjoiZDE0YjM3OTktMmVmMy00ZjA0LWI1ZGItNzJkNzM5MjhhMWYzIiwicyI6IlpXTm1PREZqTkdZdE9UUmxZaTAwTkdWaUxUZ3pNalV0WVdZNU16Wm1NemcyTm1JdyJ9"
         envVars["S5_PORT"] = ""
-        envVars["HY2_PORT"] = "25784"
+        envVars["HY2_PORT"] = "25563"
         envVars["TUIC_PORT"] = ""
         envVars["ANYTLS_PORT"] = ""
         envVars["REALITY_PORT"] = ""
